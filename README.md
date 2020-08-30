@@ -28,5 +28,5 @@
 
 
 [instagram]: https://instagram.com/henbalmant
-[linkedin]: https://linkedin.com/in/henrique.balmant
+[linkedin]: https://linkedin.com/in/henrique-balmant
 [zendesk]: https://developer.zendesk.com
