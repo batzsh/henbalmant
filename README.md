@@ -6,7 +6,7 @@
 - 🎯 Passionate about solving problems through technology focusing on the best learning in complex situations.
 - 👤 I have helped to build a content marketing management application with more than 500 simultaneous users per day.
 - 🎟️ Built APIs in REST architecture for massive tickets migration between customer services platforms
-- 🤖 Built chatbots using a on-premises platform Botpress
+- 🤖 Built chatbots using an on-prem platform Botpress
 - 🔨 Node.js developer & enthusiast
 - 🏡 Working from home (permanently 😂)
 
