@@ -1,15 +1,23 @@
 # Hey, you! 👋 
 
+## 🐙 About my repos
+
+- 📁 All repos are organized by tags
+- ❗ Not all projects have front and back-end repos
+- 🔩 Back-end projects are tagged by a [backend] tag
+- 🎨 Front-end projects are tagged by a [frontend] tag
+
 ## 📃 Description
 
 - 🦇 Writer at [Batcave Developers][batcave] community.
 - 🎯 Passionate about solving problems through technology focusing on the best learning in complex situations.
-- 🔨 Node.js developer & enthusiast
+- 🔨 Node.js & Typescript developer
 - 🏡 Working from home (permanently 😂)
 
-## GitHub's Info
+## 🐱 GitHub's Info
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henbalmant&show_icons=true&locale=en&layout=compact&theme=dracula" alt="henbalmant" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henbalmant&show_icons=true&locale=en&layout=compact&theme=dracula" alt="henbalmant" /></p>![1f419](https://user-images.githubusercontent.com/20211646/144931756-a71ad4ea-a3e1-495d-9faa-15a39ee7d4c1.png)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henbalmant&show_icons=true&theme=dracula&locale=en" alt="henbalmant" width="425" /></p>
 
