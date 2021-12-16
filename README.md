@@ -2,7 +2,7 @@
 
 ## 🐙 About my repos
 
-- 📁 All repos are named as `tag-project.name`
+- 📁 All repos are named as `tag-project-name`
 - ❗ Not all projects have front and back-end repos
 - 🔩 Back-end projects are tagged by a [backend] tag
 - 🎨 Front-end projects are tagged by a [frontend] tag
