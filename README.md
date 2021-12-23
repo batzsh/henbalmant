@@ -1,12 +1,5 @@
 # Hey, you! 👋 
 
-## 🐙 About my repos
-
-- 📁 All repos are named as `tag-project-name`
-- ❗ Not all projects have front and back-end repos
-- 🔩 Back-end projects are tagged by a [backend] tag
-- 🎨 Front-end projects are tagged by a [frontend] tag
-
 ## 📃 Description
 
 - 🦇 Writer at [Batcave Developers][batcave] community.
