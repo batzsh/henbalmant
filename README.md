@@ -18,13 +18,15 @@
 
 ## 💡 GitHub's Info
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henbalmant&show_icons=true&locale=en&layout=compact&theme=dracula" alt="henbalmant" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henbalmant&show_icons=true&locale=en&layout=compact&theme=dark" alt="henbalmant" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henbalmant&show_icons=true&theme=dracula&locale=en" alt="henbalmant" width="425" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henbalmant&show_icons=true&theme=dark&locale=en" alt="henbalmant" width="425" /></p>
 
 ## 📬 Contact me
 
-[![Gmail Badge](https://img.shields.io/badge/-henrique.balmant@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.balmant@gmail.com)](mailto:henrique.balmant@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Balmant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-balmant/)](https://www.linkedin.com/in/henrique-balmant/)
+<div> 
+  <a href = "mailto:henrique.balmant@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henrique-balmant/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 [batcave]: https://batcave.dev.br/
