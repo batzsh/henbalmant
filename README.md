@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Welcome to my Github profile. Checkout my last repo:</br></br>
+    Welcome to my Github profile. Checkout my last project:</br></br>
   <a href="https://github.com/henbalmant/delivery-app-node-js">
     <img alt="Last repo" src="https://img.shields.io/badge/Github-Delivery%20App-ffe16b?style=flat&logo=github">
   </a>
