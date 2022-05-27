@@ -4,8 +4,8 @@
 
 <h3 align="center">
     Welcome to my Github profile. Check out my last project:</br></br>
-  <a href="https://github.com/henbalmant/linkedin-ui-clone-react">
-    <img alt="Last repo" src="https://img.shields.io/badge/Github-LinkedIn%20UI%20Clone-ffe16b?style=flat&logo=github">
+  <a href="https://github.com/henbalmant/dtmoney-react">
+    <img alt="Last repo" src="https://img.shields.io/badge/Github-DT%20Money%20-ffe16b?style=flat&logo=github">
   </a>
 </h3>
 
