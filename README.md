@@ -1,32 +1,47 @@
-<h1 align="center">
-     Hey, you! 👋
-</h1>
+<p align="center"><a href="https://batcave.dev.br/"><img height="100px" src="./assets/hello.png" /></a></p>
 
-<h3 align="center">
-    Welcome to my Github profile. Check out my last project:</br></br>
-  <a href="https://github.com/henbalmant/dtmoney-react">
-    <img alt="Last repo" src="https://img.shields.io/badge/Github-DT%20Money%20-ffe16b?style=flat&logo=github">
-  </a>
-</h3>
+<br />
+
+I'm passionate about solving problems through technology focusing on the best learning in complex situations 👨🏻‍💻
 
 ## 💻 About me
 
-- 🦇 Writer at [Batcave Developers][batcave] community.
-- 🎯 Passionate about solving problems through technology focusing on the best learning in complex situations.
+- 💼 Senior Back-end Engineer at [Monetizze](https://www.monetizze.com.br/)
+
+- 🦇 Writer at [Batcave Developers](https://batcave.dev.br/) community
+
 - 🔨 Node.js & Typescript developer
+
 - 🏡 Working from home (permanently 😂)
+
+<img height="20" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="20" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="20" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="20" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
 ## 💡 GitHub's Info
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henbalmant&show_icons=true&locale=en&layout=compact&theme=dark" alt="henbalmant" /></p>
+| <a href="https://github.com/henbalmant/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henbalmant&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Henrique's GitHub stats" /></a> | <a href="https://github.com/henbalmant/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henbalmant&layout=compact&theme=dark&hide_border=true" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henbalmant&show_icons=true&theme=dark&locale=en" alt="henbalmant" width="425" /></p>
+## 📦 Repositories
 
-## 📬 Contact me
+<a href="https://github.com/henbalmant/ts-node-clean-arch-ddd-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henbalmant&repo=ts-node-clean-arch-ddd-template&theme=dark" />
+</a>
+<a href="https://github.com/henbalmant/rentalx-server-node-js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henbalmant&repo=rentalx-server-node-js&theme=dark" />
+</a>
 
-<div> 
-  <a href = "mailto:henrique.balmant@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-balmant/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<br />
+<br />
 
-[batcave]: https://batcave.dev.br/
+<h2 align="right">📬 Contact me</h2>
+
+<a href="https://www.linkedin.com/in/henrique-balmant/">
+  <img align="right" alt="Henrique Balmant | LinkedIn" width="32px" src="./assets/twitter.svg" />
+</a>
+
+<a href="https://twitter.com/_batware">
+  <img align="right" alt="Henrique Balmant | Twitter" width="32px" src="./assets/linkedin.svg" />
+</a>
