@@ -26,8 +26,8 @@ I'm passionate about solving problems through technology focusing on the best le
 
 ## 📦 Repositories
 
-<a href="https://github.com/henbalmant/ts-node-clean-arch-ddd-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henbalmant&repo=ts-node-clean-arch-ddd-template&theme=dark" />
+<a href="https://github.com/henbalmant/typescript-nodejs-ddd-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henbalmant&repo=typescript-nodejs-ddd-template&theme=dark" />
 </a>
 <a href="https://github.com/henbalmant/rentalx-server-node-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henbalmant&repo=rentalx-server-node-js&theme=dark" />
