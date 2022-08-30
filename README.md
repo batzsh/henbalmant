@@ -6,7 +6,7 @@ I'm passionate about solving problems through technology focusing on the best le
 
 ## 💻 About me
 
-- 💼 Senior Back-end Engineer at [Monetizze](https://www.monetizze.com.br/)
+- 💼 Back-end Engineer
 
 - 🦇 Writer at [Batcave Developers](https://batcave.dev.br/) community
 
